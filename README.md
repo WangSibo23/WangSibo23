@@ -4,4 +4,4 @@
 - 📫 How to reach me: wangsibo.andy23@qq.com
 
 
-一名中国六年级小学生
+一名China六年级小鞋生，OIer蒟蒻。学习黑客攻防，Java，C++，Python，three.js。 洛谷： Wang_Sibo 
