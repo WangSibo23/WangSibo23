@@ -5,4 +5,4 @@
 
 
 一名China六年级小鞋生，OIer蒟蒻。学习黑客攻防，Java，C++，Python，three.js。 洛谷： Wang_Sibo 
-也喜欢研究MC Mod制作
+（也喜欢研究MC Mod制作）
