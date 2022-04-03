@@ -12,7 +12,7 @@
 
 ------------
 
-![11](https://api.xecades.xyz/api?codeforces=Wang_Sibo&luogu=297916&date=2030-01-01&email=wangsibo.andy23%40qq.com&github=WangSibo23&csdn=wangsibo23andy&quote=%E2%9C%8C%EF%B8%8F%F0%9F%A4%AC%F0%9F%A4%AC&bg=31%2C196%2C147%2C0.38&color=129%2C144%2C71%2C1&img=2)
+![11](https://api.xecades.xyz/api?codeforces=Wang_Sibo&luogu=297916&date=2030-01-01&email=wangsibo.andy23%40qq.com&github=WangSibo23&csdn=wangsibo23andy&quote=%E2%9C%8C%EF%B8%8F&color=129%2C144%2C71%2C1&img=2)
 
 
 
