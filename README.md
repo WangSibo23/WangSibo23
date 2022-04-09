@@ -4,6 +4,7 @@
 - 👀 I’m interested in:		网络安全_network security, C++, Python, JAVA, Three.js, Unity, MCMOD
 - 🌱 I’m currently learning:		C++ Python JAVA Three.js
 - 📫 How to reach me: wangsibo.andy23@qq.com
+- My HomePage: https://www.luogu.com.cn/user/297916
 
 
 一名China六年级小鞋生，OIer蒟蒻。学习黑客攻防，Java，C++，Python，three.js。 洛谷： Wang_Sibo 
@@ -21,7 +22,6 @@
 ------------
 
 #### 此人是一位六年级的OIer蒟蒻，请各位神犇多多指教！
-###### E-mail: wangsibo.andy23@qq.com
 | 语言 | 感兴趣/正在学习 | 用途 |
 | :----------: | :----------: | :----------: |
 | C++ | 正在学习 | OI |
